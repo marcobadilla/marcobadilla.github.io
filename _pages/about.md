@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "MARCO A. BADILLA"
+title: "**MARCO A. BADILLA**"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,5 +12,7 @@ redirect_from:
 
 My fields of interest are: Labor Economics, Behavioral, Income and Wage Inequality.
 
-Email: , Link to my [CV](/files/CV_blank.pdf)  
+Email: @, 
+
+Link to my [CV](/files/CV_blank.pdf)  
 
