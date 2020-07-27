@@ -14,7 +14,7 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    @include span(0.5 of 12);
+    @include span(0 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -41,16 +41,16 @@
   p, li {
     font-family: $sans-serif;
     font-size: $type-size-6;
-    line-height: 1.5;
+    line-height: 0;
   }
 
   img {
-    width: 100%;
+    width: 0%;
   }
 }
 
 .sidebar__right {
-  margin-bottom: 1em;
+  margin-bottom: 0em;
 
   @include breakpoint($large) {
     position: relative;
