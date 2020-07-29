@@ -12,8 +12,7 @@ redirect_from:
 
 My fields of interest are: Labor Economics, Behavioral, Income and Wage Inequality.
 
-Email: @, d
+Email: @
 
 Link to my [CV](/files/CV_blank.pdf)  
 
-#wwww
