@@ -5,8 +5,5 @@ permalink: /research/
 author_profile: true
 ---
 
-Reducing Wage Inequality through Gender Gaps: Good intentions and promising results, but do not force it too much. test. 
+Reducing Wage Inequality through Gender Gaps: Good intentions and promising results, but do not force it too much. [(LINK)](/files/Marco_A_Badilla_Maroto.pdf)  
 
-[(LINK)](/files/Marco_A_Badilla_Maroto.pdf)  
-
-[(CV)](/files/CV_M_A_Badilla_Maroto.pdf)  
