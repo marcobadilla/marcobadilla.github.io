@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "**MARCO A. BADILLA MAROTO**"
+title: "**MARCO A. Badilla MAROTO**"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
