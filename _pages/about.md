@@ -12,9 +12,9 @@ redirect_from:
 
 I received my Bachelor's degree in Economics (with honors) from the University of Costa Rica (UCR).
 
-I am currently a Research Assistant to [José Vázquez](https://jpvasquez-econ.github.io/), [Isabela Manelici](https://www.isabelamanelici.com/) and [Alonso Alfaro](https://sites.google.com/view/alfarourena).
+I am currently a Research Assistant to Benjamin Faber, [Jose Vazquez](https://jpvasquez-econ.github.io/), [Isabela Manelici](https://www.isabelamanelici.com/) and [Alonso Alfaro](https://sites.google.com/view/alfarourena).
 
-My fields of interest are: Labor Economics, Income and wealth Inequality, Macroeconomics and Public Finance.
+My fields of interest are: Labor Economics, Macroeconomics and Public Finance.
 
 Email: **marco.badillamaroto@ucr.ac.cr**
 
