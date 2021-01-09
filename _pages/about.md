@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/images/photo.jpg" width="320"> 
+<img class="img-responsive" style="float: left; margin: 0px 20px 10px 0px;" src="/images/photo.jpg" width="320"> 
 
 I received my Bachelor's degree in Economics (with honors) from the University of Costa Rica (UCR).
 
