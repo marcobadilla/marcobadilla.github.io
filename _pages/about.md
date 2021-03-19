@@ -10,11 +10,11 @@ redirect_from:
 
 <img class="img-responsive" style="float: left; margin: 0px 20px 5px 0px;" src="/images/photo.jpg" width="320"> 
 
-I received my Bachelor's degree in Economics (with honors) from the University of Costa Rica (UCR).
+I received my Bachelor's degree in Economics (with honors) from the University of Costa Rica (UCR). This Fall 2021 I will start my Ph.D. in Economics at UC, Berkeley. 
 
 I am currently a Research Assistant to [Benjamin Faber](https://eml.berkeley.edu//~faberb/), [Jose Vasquez](https://jpvasquez-econ.github.io/), [Isabela Manelici](https://www.isabelamanelici.com/) and [Alonso Alfaro](https://sites.google.com/view/alfarourena).
 
-My fields of interest are: Labor Economics, Macroeconomics and Public Finance.
+My interests are: Labor Economics, Public Finance, Inequality and Trade.
 
 Email: **marco.badillamaroto@ucr.ac.cr**
 
