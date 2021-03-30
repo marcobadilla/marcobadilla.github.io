@@ -28,5 +28,5 @@ Link to my [CV](/files/CV_M_A_Badilla.pdf)
 
 *The role of the gender wage gap in overall wage inequality: A quantitative exercise* 
 
-(Resubmitted at journal Economia-LACEA) [(LINK)](/files/Marco_A_Badilla_Maroto.pdf) 
+(Accepted at journal Economia-LACEA) [(LINK)](/files/Marco_A_Badilla_Maroto.pdf) 
 
