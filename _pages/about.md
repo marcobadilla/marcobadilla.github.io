@@ -16,7 +16,7 @@ I am currently a Research Assistant to [Benjamin Faber](https://eml.berkeley.edu
 
 My interests are: Labor Economics, Public Finance, Inequality and Trade.
 
-Email: **marco.badillamaroto@ucr.ac.cr**
+Email: **mbadilla@berkeley.edu**
 
 Link to my [CV](/files/CV_M_A_Badilla.pdf)  
 
