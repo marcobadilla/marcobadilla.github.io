@@ -28,7 +28,5 @@ Link to my [CV](/files/CV_M_A_Badilla.pdf)
 
 *The role of the gender wage gap in overall wage inequality: A quantitative exercise* 
 
-(Journal Economia-LACEA. Volume 21, number 1. 2020.) [(PUBLICATION)](https://www.brookings.edu/book/economia-fall-2020/)
-
-[(WORKING PAPER)](/files/MA_BADILLA_LACEA_GENDER_GAP.pdf) 
+Journal Economia-LACEA, volume 21, number 1. 2020. [(PUBLICATION)](https://www.brookings.edu/book/economia-fall-2020/) [(WORKING PAPER)](/files/MA_BADILLA_LACEA_GENDER_GAP.pdf) 
 
