@@ -24,7 +24,7 @@ Link to my [CV](/files/CV_M_A_Badilla.pdf)
 
 **Recent publications:** 
 
-*The role of the gender wage gap in overall wage inequality: A quantitative exercise* 
+*The Role of the Gender Wage Gap in Overall Wage Inequality: A quantitative exercise* 
 
-Journal Economia-LACEA, volume 21, number 1, 2020. [(PUBLICATION)](https://www.brookings.edu/book/economia-fall-2020/) [(WORKING PAPER)](/files/MA_BADILLA_LACEA_GENDER_GAP.pdf) 
+Journal Economía-[LACEA](http://economia.lacea.org/), Volume 21, Number 1, Fall 2020. [(PUBLICATION)](https://www.brookings.edu/book/economia-fall-2020/) [(WORKING PAPER)](/files/MA_BADILLA_LACEA_GENDER_GAP.pdf) 
 
