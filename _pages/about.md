@@ -22,7 +22,6 @@ Email: **mbadilla@berkeley.edu**
 
 Link to my [CV](/files/CV_M_A_Badilla.pdf)  
 
-.
 
 **Recent publications:** 
 
