@@ -16,7 +16,7 @@ I was a Research Assistant to [Benjamin Faber](https://eml.berkeley.edu//~faberb
 
 I am currently a Research Assistant to [Sydnee Caldwell](https://www.sydneecaldwell.com/).
 
-My interests are: Labor and Public Economics, inequality and Economics of Education.
+My interests are: Labor and Public Economics, Inequality and Economics of Education.
 
 Email: **mbadilla@berkeley.edu**
 
