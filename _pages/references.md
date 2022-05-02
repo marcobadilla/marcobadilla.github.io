@@ -4,7 +4,6 @@ title: "References"
 permalink: /references/
 author_profile: true
 ---
-[Benjamin Faber](https://eml.berkeley.edu//~faberb/), PhD. Associate Professor, UC Berkeley. Email: **benfaber@econ.berkeley.edu**
 
 [Jose Vasquez](https://jpvasquez-econ.github.io/), PhD. Assistant Professor, London School of Economics. Email: **j.p.vasquez@lse.ac.uk**
 
