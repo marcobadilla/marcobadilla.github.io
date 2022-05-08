@@ -12,9 +12,9 @@ redirect_from:
 
 I received my Bachelor's degree in Economics (with honors) from the University of Costa Rica (UCR). This Fall 2021 I will start my Ph.D. in Economics at the University of California, Berkeley. 
 
-I was a Research Assistant to [Benjamin Faber](https://eml.berkeley.edu//~faberb/), [Jose Vasquez](https://jpvasquez-econ.github.io/), [Isabela Manelici](https://www.isabelamanelici.com/) and [Alonso Alfaro](https://sites.google.com/view/alfarourena).
+I was a Research Assistant to [Benjamin Faber](https://eml.berkeley.edu//~faberb/), [José Vásquez](https://jpvasquez-econ.github.io/), [Isabela Manelici](https://www.isabelamanelici.com/) and [Alonso Alfaro](https://sites.google.com/view/alfarourena).
 
-I am currently a Research Assistant to [Sydnee Caldwell](https://www.sydneecaldwell.com/).
+I am currently a Research Assistant to [Sydnee Caldwell](https://www.sydneecaldwell.com/) and [Ingrid Haegele](https://www.ingridhaegele.com/).
 
 My interests are: Labor and Public Economics, Inequality and Economics of Education.
 
