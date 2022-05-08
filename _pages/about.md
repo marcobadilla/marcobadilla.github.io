@@ -32,5 +32,5 @@ Journal Economía-[LACEA](http://economia.lacea.org/), Volume 21, Number 1, Fall
 *Importancia relativa de los beneficios intangibles de la Inversión Extranjera Directa (IED) en Zonas Francas en Costa Rica* 
 
 Con Alonso Alfaro, Isabela Manelici y José Vásquez. Documento de investigación DI-08-2021, Departamento de Investigación, Banco Central de Costa Rica.
-[PUBLICATION](https://repositorioinvestigaciones.bccr.fi.cr/handle/20.500.12506/355)
+([PUBLICATION](https://repositorioinvestigaciones.bccr.fi.cr/handle/20.500.12506/355))
 
