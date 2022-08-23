@@ -6,6 +6,6 @@ main:
   #- title: "Teaching"
     #url: /teaching/    
     
-  - title: "References"
-    url: /references/
+  #- title: "References"
+    #url: /references/
 
