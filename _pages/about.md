@@ -12,7 +12,9 @@ redirect_from:
 
 I received my Bachelor's degree in Economics (with honors) from the University of Costa Rica (UCR). I am currently a Ph.D. Student in Economics at the University of California, Berkeley. 
 
-I am a Research Assistant to [Benjamin Faber](https://eml.berkeley.edu//~faberb/), [Mathilde Muñoz](https://sites.google.com/view/mathilde-munoz/about), and [Antoine Levy](https://sites.google.com/view/antoine-levy/home). In other projects, I am also a Research Assistant to [Sydnee Caldwell](https://www.sydneecaldwell.com/) and [Ingrid Haegele](https://www.ingridhaegele.com/).
+I am a Research Assistant to [Benjamin Faber](https://eml.berkeley.edu//~faberb/), [Mathilde Muñoz](https://sites.google.com/view/mathilde-munoz/about), and [Antoine Levy](https://sites.google.com/view/antoine-levy/home). 
+
+I am also a Research Assistant to [Sydnee Caldwell](https://www.sydneecaldwell.com/) and [Ingrid Haegele](https://www.ingridhaegele.com/).
 
 My interests are: Labor and Development Economics, Inequality and Economics of Education.
 
