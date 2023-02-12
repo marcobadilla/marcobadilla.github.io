@@ -22,7 +22,7 @@ Email: **mbadilla@berkeley.edu**
 
 Link to my [CV](/files/CV_M_A_Badilla.pdf)  
 
-**Work in progress:**
+**Work in Progress:**
 
 * *The Local Economic Implications of Mobile Pensioners: Evidence from Europe,* with Benjamin Faber (UC Berkeley), Antoine Levy (UC Berkeley) and Mathilde Muñoz (UC Berkeley).
 * *Top Students: Pushing Ahead and Pulling Along,* with Alonso Alfaro (BCCR).
