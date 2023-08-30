@@ -10,11 +10,7 @@ redirect_from:
 
 <img class="img-responsive" style="float: left; margin: 0px 20px 5px 0px;" src="/images/photo1.jpg" width="320"> 
 
-I am a second year Economics PhD Student at the University of California, Berkeley. 
-
-I am a Research Assistant to [Benjamin Faber](https://eml.berkeley.edu//~faberb/), [Mathilde Muñoz](https://sites.google.com/view/mathilde-munoz/about), and [Antoine Levy](https://sites.google.com/view/antoine-levy/home). 
-
-I am also a Research Assistant to [Sydnee Caldwell](https://www.sydneecaldwell.com/) and [Ingrid Haegele](https://www.ingridhaegele.com/).
+I am a third-year Economics PhD Student at the University of California, Berkeley. 
 
 My interests are: Labor and Development Economics, Inequality and Economics of Education.
 
@@ -25,6 +21,7 @@ Link to my [CV](/files/CV_M_A_Badilla.pdf)
 **Work in Progress:**
 
 * *The Local Economic Implications of Mobile Pensioners: Evidence from Europe,* with Benjamin Faber (UC Berkeley), Antoine Levy (UC Berkeley) and Mathilde Muñoz (UC Berkeley).
+* *Switching from High-stakes to Low-stakes Evaluation: Evidence from a University-level Reform,* with Alonso Alfaro (BCCR).
 * *Top Students: Pushing Ahead and Pulling Along,* with Alonso Alfaro (BCCR).
 
 **Recent publications:** 
