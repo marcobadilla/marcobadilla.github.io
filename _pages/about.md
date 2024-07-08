@@ -22,7 +22,7 @@ Link to my [CV](/files/CV_M_A_Badilla.pdf)
 
 **Work in Progress:**
 
-* *The Local Economic Implications of Mobile Pensioners: Evidence from Europe,* with Benjamin Faber (UC Berkeley), Antoine Levy (UC Berkeley) and Mathilde Muñoz (UC Berkeley).
+* *[Senior Migration, Local Economic Development and Spatial Inequality](/files/Mobile_Seniors.pdf),* with Benjamin Faber (UC Berkeley), Antoine Levy (UC Berkeley) and Mathilde Muñoz (UC Berkeley).
 * *Switching from High-stakes to Low-stakes Evaluation: Evidence from a University-level Reform,* with Alonso Alfaro (BCCR).
 * *Some Insights on Talent Heterogeneity,* with Alonso Alfaro (BCCR).
 
