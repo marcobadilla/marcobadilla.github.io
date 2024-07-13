@@ -24,7 +24,7 @@ Link to my [CV](/files/CV_M_A_Badilla.pdf)
 
 * *[Senior Migration, Local Economic Development and Spatial Inequality](/files/Mobile_Seniors.pdf),* with Benjamin Faber (UC Berkeley), Antoine Levy (UC Berkeley) and Mathilde Muñoz (UC Berkeley).
 * *Disrupting Education's Old Guard: The Labor Market Effects of Replacing Class Exams for Group Projects,* with Alonso Alfaro (BCCR).
-* Insights on Talent Heterogeneity,* with Alonso Alfaro (BCCR).
+* *Insights on Talent Heterogeneity,* with Alonso Alfaro (BCCR).
 
 **Publications:** 
 
