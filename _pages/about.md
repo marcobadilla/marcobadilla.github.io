@@ -10,7 +10,7 @@ redirect_from:
 
 <img class="img-responsive" style="float: left; margin: 0px 20px 5px 0px;" src="/images/photo1.jpg" width="320"> 
 
-I am a third-year Economics PhD Student at the University of California, Berkeley. 
+I am a fourth-year Economics PhD Candidate at the University of California, Berkeley. 
 
 My interests are: Labor and Development Economics, with a focus on Economics of Education.
 
@@ -23,10 +23,10 @@ Link to my [CV](/files/CV_M_A_Badilla.pdf)
 **Work in Progress:**
 
 * *[Senior Migration, Local Economic Development and Spatial Inequality](/files/Mobile_Seniors.pdf),* with Benjamin Faber (UC Berkeley), Antoine Levy (UC Berkeley) and Mathilde Muñoz (UC Berkeley).
-* *Switching from High-stakes to Low-stakes Evaluation: Evidence from a University-level Reform,* with Alonso Alfaro (BCCR).
-* *Some Insights on Talent Heterogeneity,* with Alonso Alfaro (BCCR).
+* *Disrupting Education's Old Guard: The Labor Market Effects of Replacing Class Exams for Group Projects,* with Alonso Alfaro (BCCR).
+* Insights on Talent Heterogeneity,* with Alonso Alfaro (BCCR).
 
-**Recent publications:** 
+**Publications:** 
 
 * *The Role of the Gender Wage Gap in Overall Wage Inequality: A quantitative exercise.* 
 Journal Economía-[LACEA](https://economia.lse.ac.uk/), Volume 21, Number 1, Fall 2020, pp. 169-207. ([PUBLICATION](https://economia.lse.ac.uk/articles/10.1353/eco.2020.0010)) ([PRE-PRINT](/files/MA_BADILLA_LACEA_GENDER_GAP.pdf)) 
