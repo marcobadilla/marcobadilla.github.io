@@ -16,7 +16,7 @@ My interests are: Labor and Development Economics, with a focus on Economics of 
 
 Email: **mbadilla@berkeley.edu**
 
-Link to my [CV](/files/CV_M_A_Badilla.pdf)  
+Link to my [CV](/files/CV_MA_BADILLA.pdf)  
 
 .
 
