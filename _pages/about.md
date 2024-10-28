@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img class="img-responsive" style="float: left; margin: 0px 20px 5px 0px;" src="/images/photo2.jpg" width="320"> 
+<img class="img-responsive" style="float: left; margin: 0px 20px 5px 0px;" src="/images/photo2.jpg" width="300"> 
 
 I am a fourth-year Economics PhD Candidate at the University of California, Berkeley. 
 
