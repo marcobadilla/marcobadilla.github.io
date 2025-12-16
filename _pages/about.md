@@ -25,7 +25,7 @@ Link to my [CV](/files/CV_MA_BADILLA.pdf)
 * *[Disrupting Education’s Old Guard: The Labor Market Effects of Replacing Traditional In-Class Exams with Group Projects](/files/ULACIT_EXAMS.pdf),* with Alonso Alfaro-Ureña (BCCR).
 * *Skill Measurement, Returns and Mismatch: Evidence from Narrative Evaluations*.
 * *Talent Heterogeneity and Misallocation,* with Alonso Alfaro-Ureña (BCCR).
-* *[Senior Migration, Local Economic Development and Spatial Inequality](/files/Mobile_Seniors.pdf),* with Benjamin Faber (UC Berkeley), Antoine Levy (UC Berkeley) and Mathilde Muñoz (UC Berkeley).
+* *[Senior Migration, Local Economic Development and Spatial Concentration](/files/Mobile_Seniors.pdf),* with Benjamin Faber (UC Berkeley), Antoine Levy (UC Berkeley) and Mathilde Muñoz (UC Berkeley).
 
 **Publications:** 
 
