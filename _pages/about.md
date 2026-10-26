@@ -10,9 +10,9 @@ redirect_from:
 
 <img class="img-responsive" style="float: left; margin: 0px 20px 5px 0px;" src="/images/photo2.jpg" width="225"> 
 
-I am a fifth-year Economics PhD Candidate at the University of California, Berkeley. 
+I am an Economics PhD Candidate at the University of California, Berkeley. 
 
-My interests are: Labor and Development Economics, with a focus on Economics of Education.
+My fields are: Labor and Development Economics, with a focus on Economics of Education.
 
 Email: **mbadilla@berkeley.edu**
 
@@ -22,10 +22,11 @@ Link to my [CV](/files/CV_MA_BADILLA.pdf)
 
 **Work in Progress:**
 
-* *[Disrupting Education’s Old Guard: The Labor Market Effects of Replacing Traditional Class Exams with Group Projects](/files/ULACIT_EXAMS.pdf),* with Alonso Alfaro-Ureña (BCCR).
-* *Skill Measurement, Returns and Mismatch: Evidence from Narrative Evaluations*.
-* *Talent Heterogeneity and Misallocation,* with Alonso Alfaro-Ureña (BCCR).
+* *[Disrupting Education’s Old Guard: The Labor Market Effects of Replacing Traditional Class Exams with Group Projects](/files/ULACIT_EXAMS_paper.pdf),* with Alonso Alfaro-Ureña (BCCR).
+* *[Skill Measurement, Returns and Mismatch: Evidence from Narrative Evaluations](/files/UCSC_NARRATIVES_paper.pdf)*.
 * *[Senior Migration, Local Economic Development and Spatial Concentration](/files/Mobile_Seniors.pdf),* with Benjamin Faber (UC Berkeley), Antoine Levy (UC Berkeley) and Mathilde Muñoz (UC Berkeley).
+* *Talent Heterogeneity and Misallocation,* with Alonso Alfaro-Ureña (BCCR).
+
 
 **Publications:** 
 
