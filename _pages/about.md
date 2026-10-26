@@ -12,7 +12,7 @@ redirect_from:
 
 I am an Economics PhD Candidate at the University of California, Berkeley. 
 
-My fields are: Labor and Development Economics, with a focus on Economics of Education.
+My fields are Labor and Development Economics, with a focus on Economics of Education.
 
 Email: **mbadilla@berkeley.edu**
 
